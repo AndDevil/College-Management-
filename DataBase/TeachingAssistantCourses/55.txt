@@ -1,0 +1,2 @@
+101,math,25
+102,Logic Design,36
