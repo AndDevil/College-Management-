@@ -43,23 +43,21 @@ It uses **files as a temporary database** to store, retrieve, and manage informa
 1. Clone the repository:  
    ```bash
    git clone https://github.com/AndDevil/College-System.git
-   cd College-System
+   cd College-System```
 
 2. Compile the C++ files:
 
-g++ main.cpp -o college-system
+```g++ main.cpp -o college-system```
 
 
 3. Run the program:
 
-./college-system
-
-
+```./college-system```
 
 
 ---
 
-🤝 Contributions
+## 🤝 Contributions
 
 Contributions are welcome!
 If you’d like to improve the project (e.g., database integration or UI), feel free to fork this repository and submit a pull request.
@@ -67,17 +65,14 @@ If you’d like to improve the project (e.g., database integration or UI), feel 
 
 ---
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 
 ---
 
-👨‍💻 Author
-
-Shrish Kumar
-
-GitHub: AndDevil
-
-LinkedIn: Shrish Kumar
+## 👨‍💻 Author
+**Shrish Kumar**  
+- GitHub: [AndDevil](https://github.com/AndDevil)  
+- LinkedIn: [Shrish Kumar](https://www.linkedin.com/in/shrish-k-83821212a/)
